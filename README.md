@@ -4,7 +4,7 @@ Welcome to **GloboNext**, a modern, multilingual landing page built with **Next.
 
 ## 🌍 Live Demo
 
-The live version of this project is deployed and accessible [here](https://nextly-intl.vercel.app/).
+The live version of this project is deployed and accessible [here](https://globonext.vercel.app/).
 
 ## 🚀 Features
 
